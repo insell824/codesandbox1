@@ -4,7 +4,7 @@
       <v-btn color="red" @click="request()" :loading="isBusy" dark
         >日本語</v-btn
       >
-
+      aaaaa
       <div class="red">ccccc</div>
     </div>
     <div>
